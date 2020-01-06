@@ -191,6 +191,7 @@ These Firefox extensions can help prevent connections to Google domains and also
   - [Plasma Mobile](https://www.plasma-mobile.org/) - **5-eyes** - Looks a bit like older versions of Android (before 7.0). Open-source and runs Linux. Very dedicated team, definitely worth trying out.
   - [Replicant](https://replicant.us/) - **5-eyes** - Free Android distribution. Puts the emphasis on "freedom and privacy/security".
   - [/e/](https://e.foundation/) - **9-eyes** - A new open-source, privacy-focused operating system for Android devices. Looks very promising (thanks u/itsec_ho). **Note: u/steamport shared [this link](https://ewwlo.xyz/evil.html).
+  - [Hashbang OS](https://github.com/hashbang/os) - **5 eyes** - Open-source and based on Android. Taking over the hole left from CopperheadOS. Users maintain their own signing keys and Chromium has been further "de-googled". Currently only works with Pixel Devices but accepting patches.
 - Chrome OS
   - [Qubes OS](https://www.qubes-os.org/) - "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it.
   - [Tails](https://tails.boum.org/) - For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian.

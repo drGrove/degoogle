@@ -4,6 +4,7 @@ GitHub:
 
 - [Fabian Cook](https://github.com/fabiancook)
 - [Alexander Schaap](https://github.com/aschaap)
+- [Danny Grove](https://github.com/drGrove)
 
 Reddit:
 
